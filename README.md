@@ -6,6 +6,7 @@
 <br />
 <br />
 <br />
+
 ## My values
 1. 제 유년 시절 참새가 진화하면 비둘기가 되고 비둘기가 진화하면<br /><br />
 독수리가 된다는 출처 모를 유언비어가 정설처럼 퍼져 나간 적이 있습니다.<br /><br /><br />
@@ -18,6 +19,7 @@
 <br />
 <br />
 <br />
+
 ## How i work
 요즘 작업에 탄력이 붙어 하루 하루 살맛나게 살고 있습니다. <br /><br />
 다만 창문 바깥에서 양아치 고딩들이 로테이션 제도 돌입해서 <br /><br />
@@ -27,8 +29,11 @@
 <br />
 <br />
 <br />
+
 ## Skills
+
 #### I use it often.
+
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
