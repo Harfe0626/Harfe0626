@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src ="https://img.shields.io/badge/next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </div>
+
 #### I've used it before.
+
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
    <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
