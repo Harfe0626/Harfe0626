@@ -4,8 +4,6 @@
 제가 작업할 때 모니터 화면 위치가 높아 자세가 불편하다고 면전에다 욕을 좀 한게 화근이 된 것 같습니다.<br /><br />
 괜찮습니다. 저에게는 스타벅스 출입증 맥북(6개월 대여)이 있으니까요.<br /><br />
 <br />
-<br />
-<br />
 
 ## My values
 1. 제 유년 시절 참새가 진화하면 비둘기가 되고 비둘기가 진화하면<br /><br />
@@ -17,8 +15,6 @@
 강사님 으로부터 도형 맞추기 놀이하는 침팬지를 옆에서 지켜보고 있는 듯한.<br /><br />
 그 애간장이 타들어가는 듯한 오잉꼬잉한 느낌이 강하게 드는거 같아 그저 죄송할 따름입니다.<br /><br /><br />
 <br />
-<br />
-<br />
 
 ## How i work
 요즘 작업에 탄력이 붙어 하루 하루 살맛나게 살고 있습니다. <br /><br />
@@ -26,8 +22,6 @@
 아파트 앞 사거리를 무슨 적 진영 정찰하러 온 SCV마냥 휘젓고 돌아다니는데.<br /><br />
 그걸 철산고로 뒤집어 엎어버리고 싶다는 내면의 충동과의 싸움으로 인해 작업이 더뎌지고 있습니다.<br /><br />
 금방 해치우고 돌아오겠습니다.<br /><br />
-<br />
-<br />
 <br />
 
 ## Skills
@@ -46,6 +40,4 @@
    <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
    <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 </div>
-<br />
-<br />
 <br />
